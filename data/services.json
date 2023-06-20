@@ -1,0 +1,34 @@
+[
+  {
+    "picture": "https://i.ibb.co/wzGNyCY/content.png",
+    "name": "Content Marketing",
+    "Title": "You can provide the answers that your potential customers are trying to find, so you can become the industry."
+  },
+  {
+    "picture": "https://i.ibb.co/XF748xC/social.png",
+    "name": "Social Marketing",
+    "Title": "Create and manage top-performing social campaigns and start developing a dedicated customer fan base."
+  },
+
+  {
+    "picture": "https://i.ibb.co/CMZNJ7t/ppc.png",
+    "name": "PPC Advertising",
+    "Title": "Create, publish, and promote engaging content to generate more traffic and build a dedicated community."
+  },
+  {
+    "picture": "https://i.ibb.co/52HFLQT/seo-2.png",
+    "name": "SEO Optimization",
+    "Title": "Create and manage top-performing social campaigns and start developing a dedicated customer fan base."
+  },
+
+  {
+    "picture": "https://i.ibb.co/R9K45vc/Data-processing-Flatline.png",
+    "name": "Data Analysis",
+    "Title": "Create and manage top-performing social campaigns and start developing a dedicated customer fan base."
+  },
+  {
+    "picture": "https://i.ibb.co/VYdB5WZ/developer.png",
+    "name": "Web Development",
+    "Title": "You can provide the answers that your potential customers are trying to find, so you can become the industry."
+  }
+]
