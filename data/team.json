@@ -1,0 +1,44 @@
+[
+  {
+    "picture": "https://i.ibb.co/8c9R2j0/team-2.jpg",
+    "name": "Christina Tores",
+    "Title": "CEO of Company"
+  },
+  {
+    "picture": "https://i.ibb.co/8YjtBTQ/team-1.jpg",
+    "name": "Gina Bano",
+    "Title": "Market Manager"
+  },
+
+  {
+    "picture": "https://i.ibb.co/xX1p5fW/team-3.jpg",
+    "name": "Regina Blackly",
+    "Title": "Seo Expart"
+  },
+  {
+    "picture": "https://i.ibb.co/9H3R5MG/team-4.png",
+    "name": "Regina Blackly",
+    "Title": "Market Manager"
+  },
+
+  {
+    "picture": "https://i.ibb.co/kmxVpXg/team-5.png",
+    "name": "Olivia Chee",
+    "Title": "General Manager"
+  },
+  {
+    "picture": "https://i.ibb.co/c3N3Qrd/team-6.png",
+    "name": "Mena Roni",
+    "Title": "General Manager"
+  },
+  {
+    "picture": "https://i.ibb.co/nrD5zb8/team-7.jpg",
+    "name": "Christina Tores",
+    "Title": "Web Designer"
+  },
+  {
+    "picture": "https://i.ibb.co/fSDJw0W/team-8.jpg",
+    "name": "Regina Blackly",
+    "Title": "CTO of Company"
+  }
+]

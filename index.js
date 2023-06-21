@@ -26,11 +26,14 @@ async function run() {
     // await client.connect();
 
     const servicesCollection = client.db('agencyDB').collection('services');
+    const teamCollection = client.db('agencyDB').collection('team');
 
+    // services data
     app.get('/services', async (req, res) => {
       const result = await servicesCollection.find().toArray();
       res.send(result);
     });
+
     app.get("/services/:id", async (req, res) => {
       const id = req.params.id;
       const query = { _id: new ObjectId(id) };
@@ -38,6 +41,11 @@ async function run() {
       res.send(selectServices);
     });
 
+    // Team data
+     app.get("/team", async (req, res) => {
+       const result = await teamCollection.find().toArray();
+       res.send(result);
+     });
 
     // Send a ping to confirm a successful connection
     await client.db("admin").command({ ping: 1 });
